@@ -13,6 +13,7 @@
    
    # 3. Seleccionamos e2e y presionamos start e2e
    - Esta parte encontrara los navegadores que detecta en su ordenador, la ejecucion del navegador es a su preferencia.
+   - 
    
    <img width="1200" alt="Captura de pantalla 2024-02-12 a la(s) 13 51 58" src="https://github.com/jgarciax/test-qb-beta/assets/68272012/191aad03-f577-4c45-9e48-ad819398e1ea">
 
