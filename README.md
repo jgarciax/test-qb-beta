@@ -3,7 +3,7 @@
 ## Ejecucion de pruebas
 
 - Para ejecutar las pruebas con cypress, sigue los siguientes pasos:
-
+- Es importante siempren descargar el node_modules para correr las biblioteclas necesarias.
 1. Ejecucion grafica en e navegador:
 2. ```
    npx cypress open
