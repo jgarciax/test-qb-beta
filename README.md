@@ -21,4 +21,3 @@
 
 <img width="1214" alt="Captura de pantalla 2024-02-12 a la(s) 13 54 14" src="https://github.com/jgarciax/test-qb-beta/assets/68272012/fde5e932-1289-4e31-a83a-dc3f215d9d6a">
 
-![image](https://drive.google.com/file/d/1DgJN8phPdEKCFKrG4khT3sd4SW_u3KJa/view?usp=sharing)
